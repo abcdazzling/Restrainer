@@ -2,6 +2,7 @@
 
     img {
         margin-top: 20px;
+        width: 30.7692vw;
     }
 
     html,
@@ -55,6 +56,7 @@
 
     img {
         margin-top: 20px;
+        width: 41.6667vw;
     }
 
     html,
@@ -108,6 +110,7 @@
 
     img {
         margin-top: 20px;
+        width: 48.7805vw;
     }
 
     html,
@@ -159,6 +162,7 @@
 @media screen and (max-width:1280px) {
     img {
         margin-top: 20px;
+        width: 62.5000vw;
     }
 
     .container {
@@ -210,6 +214,7 @@
 @media screen and (max-width:1160px) {
     img {
         margin-top: 20px;
+        width: 68.9655vw;
     }
 
     html,
@@ -261,6 +266,7 @@
 @media screen and (max-width:992px) {
     img {
         margin-top: 20px;
+        width: 80.6452vw;
     }
 
     html,
@@ -312,6 +318,7 @@
 @media screen and (max-width:768px) {
     img {
         margin-top: 20px;
+        width: 104.1667vw;
     }
 
     html,
@@ -363,6 +370,7 @@
 @media screen and (max-width:576px) {
     img {
         margin-top: 20px;
+        width: 138.8889vw;
     }
 
     html,
@@ -414,6 +422,7 @@
 @media screen and (max-width:400px) {
     img {
         margin-top: 20px;
+        width: 200.0000vw;
     }
 
     html,
