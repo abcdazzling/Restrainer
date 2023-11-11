@@ -1,0 +1,472 @@
+@media screen and (max-width:2600px) {
+
+    img {
+        margin-top: 20px;
+    }
+
+    p {
+        font-size: 14px;
+        font-family: 'Noto Serif KR', serif;
+    }
+
+    html,
+    body {
+        margin: 0;
+        font-family: 'Exo 2', sans-serif;
+        font-family: 'Noto Serif KR', serif;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        background-color: rgb(255, 255, 248);
+    }
+
+    code {
+        font-family: 'Exo 2', sans-serif;
+        font-family: 'Noto Serif KR', serif;
+    }
+
+
+    .container {
+        float: left;
+        max-width: 2600px;
+    }
+
+    .nav {
+        background: black;
+        width: 100%;
+        display: flex;
+        color: white;
+        padding: 0 0 0 10px;
+    }
+
+    .nav>h5 {
+        font-size: 20px;
+        font-family: 'Noto Serif KR', serif;
+    }
+
+    .content {
+        padding-left: 10px;
+    }
+
+    .content>h5 {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width:1920px) {
+
+    img {
+        margin-top: 20px;
+    }
+
+    p {
+        font-size: 14px;
+        font-family: 'Noto Serif KR', serif;
+    }
+
+    html,
+    body {
+        margin: 0;
+        font-family: 'Exo 2', sans-serif;
+        font-family: 'Noto Serif KR', serif;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        background-color: rgb(255, 255, 248);
+    }
+
+    code {
+        font-family: 'Exo 2', sans-serif;
+        font-family: 'Noto Serif KR', serif;
+    }
+
+
+    .container {
+        float: left;
+        max-width: 1920px;
+    }
+
+    .nav {
+        background: black;
+        width: 100%;
+        display: flex;
+        color: white;
+        padding: 0 0 0 10px;
+    }
+
+    .nav>h5 {
+        font-size: 20px;
+        font-family: 'Noto Serif KR', serif;
+    }
+
+    .content {
+        padding-left: 10px;
+    }
+
+    .content>h5 {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width:1640px) {
+
+    img {
+        margin-top: 20px;
+    }
+
+    p {
+        font-size: 14px;
+        font-family: 'Noto Serif KR', serif;
+    }
+
+    html,
+    body {
+        margin: 0;
+        font-family: 'Exo 2', sans-serif;
+        font-family: 'Noto Serif KR', serif;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        background-color: rgb(255, 255, 248);
+    }
+
+    code {
+        font-family: 'Exo 2', sans-serif;
+        font-family: 'Noto Serif KR', serif;
+    }
+
+    .container {
+        float: left;
+        max-width: 1640px;
+    }
+
+    .nav {
+        background: black;
+        width: 100%;
+        display: flex;
+        color: white;
+        padding: 0 0 0 10px;
+    }
+
+    .nav>h5 {
+        font-size: 20px;
+        font-family: 'Noto Serif KR', serif;
+    }
+
+    .content {
+        padding-left: 10px;
+    }
+
+    .content>h5 {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width:1280px) {
+    img {
+        margin-top: 20px;
+    }
+
+    p {
+        font-size: 14px;
+        font-family: 'Noto Serif KR', serif;
+    }
+
+    .container {
+        float: left;
+        max-width: 1280px;
+    }
+
+    html,
+    body {
+        margin: 0;
+        font-family: 'Exo 2', sans-serif;
+        font-family: 'Noto Serif KR', serif;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        background-color: rgb(255, 255, 248);
+    }
+
+    code {
+        font-family: 'Exo 2', sans-serif;
+        font-family: 'Noto Serif KR', serif;
+    }
+
+    .nav {
+        background: black;
+        width: 100%;
+        display: flex;
+        color: white;
+        padding: 0 0 0 10px;
+    }
+
+    .nav>h5 {
+        font-size: 20px;
+        font-family: 'Noto Serif KR', serif;
+    }
+
+    .content {
+        padding-left: 10px;
+    }
+
+    .content>h5 {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width:1160px) {
+    img {
+        margin-top: 20px;
+    }
+
+    p {
+        font-size: 14px;
+        font-family: 'Noto Serif KR', serif;
+    }
+
+    html,
+    body {
+        margin: 0;
+        font-family: 'Exo 2', sans-serif;
+        font-family: 'Noto Serif KR', serif;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        background-color: rgb(255, 255, 248);
+    }
+
+    code {
+        font-family: 'Exo 2', sans-serif;
+        font-family: 'Noto Serif KR', serif;
+    }
+
+    .container {
+        float: left;
+        max-width: 1160px;
+    }
+
+    .nav {
+        background: black;
+        width: 100%;
+        display: flex;
+        color: white;
+        padding: 0 0 0 10px;
+    }
+
+    .nav>h5 {
+        font-size: 20px;
+        font-family: 'Noto Serif KR', serif;
+    }
+
+    .content {
+        padding-left: 10px;
+    }
+
+    .content>h5 {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width:992px) {
+    img {
+        margin-top: 20px;
+    }
+
+    p {
+        font-size: 14px;
+        font-family: 'Noto Serif KR', serif;
+    }
+
+    html,
+    body {
+        margin: 0;
+        font-family: 'Exo 2', sans-serif;
+        font-family: 'Noto Serif KR', serif;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        background-color: rgb(255, 255, 248);
+    }
+
+    code {
+        font-family: 'Exo 2', sans-serif;
+        font-family: 'Noto Serif KR', serif;
+    }
+
+    .container {
+        float: left;
+        max-width: 992px;
+    }
+
+    .nav {
+        background: black;
+        width: 100%;
+        display: flex;
+        color: white;
+        padding: 0 0 0 10px;
+    }
+
+    .nav>h5 {
+        font-size: 20px;
+        font-family: 'Noto Serif KR', serif;
+    }
+
+    .content {
+        padding-left: 10px;
+    }
+
+    .content>h5 {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width:768px) {
+    img {
+        margin-top: 20px;
+    }
+
+    p {
+        font-size: 13px;
+        font-family: 'Noto Serif KR', serif;
+    }
+
+    html,
+    body {
+        margin: 0;
+        font-family: 'Exo 2', sans-serif;
+        font-family: 'Noto Serif KR', serif;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        background-color: rgb(255, 255, 248);
+    }
+
+    code {
+        font-family: 'Exo 2', sans-serif;
+        font-family: 'Noto Serif KR', serif;
+    }
+
+    .container {
+        float: left;
+        max-width: 768px;
+    }
+
+    .nav {
+        background: black;
+        width: 100%;
+        display: flex;
+        color: white;
+        padding: 0 0 0 10px;
+    }
+
+    .nav>h5 {
+        font-size: 17px;
+        font-family: 'Noto Serif KR', serif;
+    }
+
+    .content {
+        padding-left: 10px;
+    }
+
+    .content>h5 {
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width:576px) {
+    img {
+        margin-top: 20px;
+    }
+
+    p {
+        font-size: 12px;
+        font-family: 'Noto Serif KR', serif;
+    }
+
+    html,
+    body {
+        margin: 0;
+        font-family: 'Exo 2', sans-serif;
+        font-family: 'Noto Serif KR', serif;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        background-color: rgb(255, 255, 248);
+    }
+
+    code {
+        font-family: 'Exo 2', sans-serif;
+        font-family: 'Noto Serif KR', serif;
+    }
+
+    .container {
+        float: left;
+        max-width: 576px;
+    }
+
+    .nav {
+        background: black;
+        width: 100%;
+        display: flex;
+        color: white;
+        padding: 0 0 0 10px;
+    }
+
+    .nav>h5 {
+        font-size: 17px;
+        font-family: 'Noto Serif KR', serif;
+    }
+
+    .content {
+        padding-left: 10px;
+    }
+
+    .content>h5 {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width:400px) {
+    img {
+        margin-top: 20px;
+    }
+
+    p {
+        font-size: 11px;
+        font-family: 'Noto Serif KR', serif;
+    }
+
+    html,
+    body {
+        margin: 0;
+        font-family: 'Exo 2', sans-serif;
+        font-family: 'Noto Serif KR', serif;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        background-color: rgb(255, 255, 248);
+    }
+
+    code {
+        font-family: 'Exo 2', sans-serif;
+        font-family: 'Noto Serif KR', serif;
+    }
+
+    .container {
+        float: left;
+        max-width: 400px;
+    }
+
+    .nav {
+        background: black;
+        width: 100%;
+        display: flex;
+        color: white;
+        padding: 0 0 0 10px;
+    }
+
+    .nav>h5 {
+        font-size: 17px;
+        font-family: 'Noto Serif KR', serif;
+    }
+
+    .content {
+        padding-left: 10px;
+    }
+
+    .content>h5 {
+        font-size: 13px;
+    }
+}
