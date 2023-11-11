@@ -4,11 +4,6 @@
         margin-top: 20px;
     }
 
-    p {
-        font-size: 14px;
-        font-family: 'Noto Serif KR', serif;
-    }
-
     html,
     body {
         margin: 0;
@@ -50,17 +45,17 @@
     .content>h5 {
         font-size: 16px;
     }
+
+    p {
+        font-size: 14px;
+        font-family: 'Noto Serif KR', serif;
+    }
 }
 
 @media screen and (max-width:1920px) {
 
     img {
         margin-top: 20px;
-    }
-
-    p {
-        font-size: 14px;
-        font-family: 'Noto Serif KR', serif;
     }
 
     html,
@@ -104,17 +99,17 @@
     .content>h5 {
         font-size: 16px;
     }
+
+    p {
+        font-size: 14px;
+        font-family: 'Noto Serif KR', serif;
+    }
 }
 
 @media screen and (max-width:1640px) {
 
     img {
         margin-top: 20px;
-    }
-
-    p {
-        font-size: 14px;
-        font-family: 'Noto Serif KR', serif;
     }
 
     html,
@@ -157,16 +152,16 @@
     .content>h5 {
         font-size: 16px;
     }
+
+    p {
+        font-size: 14px;
+        font-family: 'Noto Serif KR', serif;
+    }
 }
 
 @media screen and (max-width:1280px) {
     img {
         margin-top: 20px;
-    }
-
-    p {
-        font-size: 14px;
-        font-family: 'Noto Serif KR', serif;
     }
 
     .container {
@@ -209,16 +204,16 @@
     .content>h5 {
         font-size: 16px;
     }
+
+    p {
+        font-size: 14px;
+        font-family: 'Noto Serif KR', serif;
+    }
 }
 
 @media screen and (max-width:1160px) {
     img {
         margin-top: 20px;
-    }
-
-    p {
-        font-size: 14px;
-        font-family: 'Noto Serif KR', serif;
     }
 
     html,
@@ -261,16 +256,16 @@
     .content>h5 {
         font-size: 16px;
     }
+
+    p {
+        font-size: 14px;
+        font-family: 'Noto Serif KR', serif;
+    }
 }
 
 @media screen and (max-width:992px) {
     img {
         margin-top: 20px;
-    }
-
-    p {
-        font-size: 14px;
-        font-family: 'Noto Serif KR', serif;
     }
 
     html,
@@ -313,16 +308,16 @@
     .content>h5 {
         font-size: 16px;
     }
+
+    p {
+        font-size: 14px;
+        font-family: 'Noto Serif KR', serif;
+    }
 }
 
 @media screen and (max-width:768px) {
     img {
         margin-top: 20px;
-    }
-
-    p {
-        font-size: 13px;
-        font-family: 'Noto Serif KR', serif;
     }
 
     html,
@@ -354,7 +349,7 @@
     }
 
     .nav>h5 {
-        font-size: 17px;
+        font-size: 20px;
         font-family: 'Noto Serif KR', serif;
     }
 
@@ -363,18 +358,18 @@
     }
 
     .content>h5 {
-        font-size: 15px;
+        font-size: 16px;
+    }
+
+    p {
+        font-size: 14px;
+        font-family: 'Noto Serif KR', serif;
     }
 }
 
 @media screen and (max-width:576px) {
     img {
         margin-top: 20px;
-    }
-
-    p {
-        font-size: 12px;
-        font-family: 'Noto Serif KR', serif;
     }
 
     html,
@@ -406,7 +401,7 @@
     }
 
     .nav>h5 {
-        font-size: 17px;
+        font-size: 20px;
         font-family: 'Noto Serif KR', serif;
     }
 
@@ -415,18 +410,18 @@
     }
 
     .content>h5 {
+        font-size: 16px;
+    }
+
+    p {
         font-size: 14px;
+        font-family: 'Noto Serif KR', serif;
     }
 }
 
 @media screen and (max-width:400px) {
     img {
         margin-top: 20px;
-    }
-
-    p {
-        font-size: 11px;
-        font-family: 'Noto Serif KR', serif;
     }
 
     html,
@@ -458,7 +453,7 @@
     }
 
     .nav>h5 {
-        font-size: 17px;
+        font-size: 20px;
         font-family: 'Noto Serif KR', serif;
     }
 
@@ -467,6 +462,11 @@
     }
 
     .content>h5 {
-        font-size: 13px;
+        font-size: 16px;
+    }
+
+    p {
+        font-size: 14px;
+        font-family: 'Noto Serif KR', serif;
     }
 }
